@@ -1,0 +1,19 @@
+table{
+    width: 1250px;
+}
+table, th, td{
+   border: 1px solid black;
+}
+td{
+    text-align: center;
+}
+caption{
+    color: red;
+   font-family: Arial, Helvetica, sans-serif;
+}
+td{
+    background-color: yellow;
+}
+th{
+    background-color: brown;
+}
